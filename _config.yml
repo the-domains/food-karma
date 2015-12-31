@@ -2,6 +2,7 @@ name: Food Karma
 favicon: null
 layout_spectrum: 0.7912382676731795
 typography_spectrum: 0.14412329089827836
+title: Share with the world
 cta:
   domain: null
   bucket: null
